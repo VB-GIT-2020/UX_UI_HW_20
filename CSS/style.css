@@ -20,7 +20,7 @@
     z-index: 99; /* Make sure it does not overlap */
     border: none; /* Remove borders */
     outline: none; /* Remove outline */
-    background-color:F5620E; /* Set a background color */
+    background-color:red; /* Set a background color */
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
     padding: 15px; /* Some padding */
@@ -57,6 +57,12 @@ nav {
     font-weight: bold;
     text-align:center;
     font-size: 30px;
+}
+
+.Define {
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
 }
 ul {    
     width:89%;   
